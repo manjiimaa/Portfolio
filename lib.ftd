@@ -329,7 +329,7 @@ role: $inherited.types.label-large
 text-align: center
 margin-vertical.px: 28
 margin-horizontal.px: 32
-color: white
+color: green
 link: $header-desktop.cta-text-5-url
 
 -- ftd.text: $header-desktop.cta-text-6
